@@ -99,5 +99,7 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:cloudsmiles/cloudsmiles.github.io.git
-  branch: master
+  repo: 
+    github: git@github.com:cloudsmiles/cloudsmiles.github.io.git
+    coding: git@e.coding.net:cloudsmiles/cloudsmiles.git
+    branch: master
