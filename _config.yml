@@ -4,7 +4,7 @@
 
 # Site
 title: cloudsmiles的博客
-subtitle: 一个关于失败的故事
+subtitle: 风起，心动
 description:
 keywords:
 author: cloudsmiles
@@ -14,9 +14,10 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://cloudsmiles.github.io
+url: http://cloudsmiles.top
 root: /
-permalink: :year/:month/:day/:title.html
+#permalink: :year/:month/:day/:title.html
+permalink: posts/:title.html
 permalink_defaults:
 
 # Directory
@@ -103,3 +104,29 @@ deploy:
     github: git@github.com:cloudsmiles/cloudsmiles.github.io.git
     coding: git@e.coding.net:cloudsmiles/cloudsmiles.git
     branch: master
+
+# Hexo-neat
+neat_enable: true
+# 压缩html
+neat_html:
+  enable: true
+  exclude:
+# 压缩css
+neat_css:
+  enable: true
+  exclude:
+  - '**/*.min.css'
+  - '**/needsharebutton.css'
+# 压缩js
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+  - '**/*.min.js'
+  - '**/jquery.fancybox.pack.js'
+  - '**/index.js'
+  - '**/waifu-tips.js'
+  - '**/iframe.js'
+  - '**/fireworks.js'
