@@ -40,7 +40,8 @@ N的名字含义来源于数学的自然数(Natural)，就连他的战斗bgm也�
 游戏里有个彩蛋，游戏里分两部，第一部之后，N就不知所踪，而第二部主角去第一部主角的家里，从他妈妈可以得知，第一部主角花了两年时间找N，而N也会告诉第二部主角，自己也在找第一部主角，两人相遇却不相逢，让人有些感慨
 
 好在官方动画，终于把他们重遇了，弥补了这遗憾
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?aid=7356179&bvid=BV1qs411Y75G&cid=12025612&page=1&wide=1&danmaku=0" scrolling="auto" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"> </iframe>
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?aid=7356179&bvid=BV1qs411Y75G&cid=12025612&page=1& as_wide=1&danmaku=0" scrolling="auto" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"> </iframe>
 
 ## <font color="#ae743b">赫普 x 毛辫羊</font>
 赫普是游戏剑盾世代的主角劲敌，一开始就感觉他平平无奇，话还多，但追随着他大哥的冠军之旅。之后不断的对战之中，赫普有过失败，他自己也会反思，慢慢的在游戏的过程之中，你会发觉这个劲敌也不是太讨厌。
@@ -51,7 +52,7 @@ N的名字含义来源于数学的自然数(Natural)，就连他的战斗bgm也�
 
 官方的最新短篇动画也有特意介绍，我觉得宝可梦的可爱之处，就是不管强弱，总是能与人产生不可思议的感觉
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?aid=83632359&bvid=BV1qJ41177Wh&cid=179517520&page=2&as_wide=1&danmaku=0" scrolling="auto" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?aid=97124315&bvid=BV127411d7qP&cid=165811987&page=1& as_wide=1&danmaku=0" scrolling="auto" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"> </iframe>
 
 ## <font color="#0077d6">小</font><font color="#d83035">菊儿</font> x <font color="#ecda00">电飞鼠</font>
 小菊儿的本职是模特，是电系道馆馆主。我对很多宝可梦人物其实也不熟悉，但单纯看他们的打扮和人设，就会觉得真好看，小菊儿的服饰设计有红蓝的不对称和黄黑搭配，看起来就感觉很时髦，但也不复杂。
